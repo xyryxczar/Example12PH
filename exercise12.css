@@ -1,0 +1,69 @@
+*{
+	box-sizing: border-box;
+	
+}
+.column {
+	float: left;
+	width: 50%;
+	padding: 5px;
+	
+}
+
+.roro{
+	margin:15px;
+	  background: #eaeaea;
+	
+}
+
+.roro1{
+	margin-left:8px;
+	  background: #eaeaea;
+	
+}
+.power{
+	width:100%;
+	padding:5px;
+}
+
+.roro2{
+	margin-left:15px;
+	  background: #eaeaea;
+}
+.row after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.strong{
+	float: left;
+	width:33.33%;
+	padding:5px;
+	height:50%;
+}
+
+.wrapper{
+	padding: 20px;
+  background: #eaeaea;
+  max-width: 400px;
+  margin: 20px auto;
+
+}
+.wrap1{
+
+}	
+.wrap2{
+}
+
+.wrapper2{
+	padding: 20px;
+  background: #eaeaea;
+  max-width: 400px;
+  margin: 20px auto;
+
+}
+.muscle{
+	float:left;
+	width:25%;
+	padding:5px;
+}
